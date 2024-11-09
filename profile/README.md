@@ -1,5 +1,9 @@
 # Taras Dockerfiles
 
+## [Tuned Debian](https://github.com/Taras-Dockerfiles/debian-tuned)
+
+A slightly tuned and modified Debian image has been provided for Docker beginners or those interested in practicing.
+
 ## [Tuned Ubuntu](https://github.com/Taras-Dockerfiles/ubuntu-tuned)
 
 A slightly tuned and modified Ubuntu image has been provided for Docker beginners or those interested in practicing.
